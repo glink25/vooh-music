@@ -42,7 +42,7 @@ uninstalling the app. Privacy questions can be filed through the Support link ab
 
 ## ☕️ Buy Me a Coffee
 
-感谢您对本项目的支持！Cent目前仅由单人支持开发，您的捐赠将用于维护和持续开发。
+感谢您对本项目的支持！Vooh 目前仅由单人支持开发，您的捐赠将用于维护和持续开发。
 
 <details>
 <summary>点击查看</summary>
